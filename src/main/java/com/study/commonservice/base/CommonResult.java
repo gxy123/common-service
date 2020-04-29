@@ -1,6 +1,6 @@
 package com.study.commonservice.base;
 
-import com.gxy.service.base.CommonCode;
+
 import lombok.Data;
 import org.slf4j.MDC;
 
